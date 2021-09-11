@@ -1,0 +1,2 @@
+Multithreading : Multithreading.o
+	gcc -pthread -o Multithreading Multithreading.c
